@@ -3,4 +3,5 @@ Data structures on Time Complexity Time complexity of queue operations: O(1) for
 
 Time complexity of stack operations: O(1)
 
-Oduor Stephen Otieno || Kevin Opiyo || Gordon Aloo || Dadius Opiyo
+Oduor Stephen Otieno || Kevin Opiyo || Gordon Aloo || Dadius Opiyo || Ramsdel Kutswa.
+
