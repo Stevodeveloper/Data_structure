@@ -1,12 +1,4 @@
 
-/*author
- Oduor Stephen Otieno - SIT/B/01-02266/2021
- Kevin Opiyo - SIT/B/01-O2311/2021
- Gordon Aloo - COM/B/01-58063/2019
- Dadius Opiyo - COM/B/01-04159/2021
-/*
-
-
 public class Mmustlinkedin {
 
     private class Node {
